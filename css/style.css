@@ -1,0 +1,146 @@
+/*header*/
+#delani {
+    background-image: url(../IP3/assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.welcome img {
+    margin-top: 5.5cm;
+}
+.welcome h1 {
+    color: white;
+    font-size: 50px;
+    margin-top: 0.5cm;
+}
+.welcome p {
+    color: white;
+    font-size: 12px;
+}
+.mouse img {
+    margin-top: 4cm;
+    margin-bottom: 1cm;
+}
+/*ABOUT US*/
+#aboutUs {
+    text-align: center;
+    margin-top: 1cm;
+    margin-bottom: 1.5cm;
+}
+#aboutUs p {
+    font-size: 14px;
+}
+/*SERVICES*/
+#services {
+    text-align: center;
+    background-image: url(../IP3/assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    height: 9cm;
+    color: white;
+    padding: 2.5cm;
+}
+#services p {
+    font-size: 14px;
+}
+/*WHAT WE DO */
+#whatWeDo {
+    text-align: center;
+}
+.descriptionDes, .descriptionDev, .descriptionPro {
+    font-size: 10px;
+    width: 6cm;
+    display: none;
+    margin-left: 2cm;
+}
+/*.imageDes, .imageDev, .imagePro {
+    margin-right: 2cm;
+}*/
+#whatWeDo h3 {
+    margin-top: 1.7cm;
+    margin-bottom: 0.5cm;
+}
+.portfolioUp {
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+.portfolioDown {
+    margin-top: 1cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+/*.portfolioUp img:hover {
+    opacity: 0.3;
+}
+.portfolioDown img:hover {
+    opacity: 0.3;
+}*/
+/* contact us*/
+#contactUs {
+    height: 550px;
+    background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    color: white;
+    margin-top: 2cm;
+}
+#contactUs h3 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 1cm;
+    margin-bottom: -0.3cm;
+}
+input {
+    background-color: unset;
+    border-color: white;
+    border: 1px solid white;
+}
+#name {
+    width: 60%;
+    margin-left: 4cm;
+}
+#email {
+    width: 60%;
+    margin-right: 1cm;
+}
+#texrareaFormControl {
+    background-color: unset;
+    width: 20cm;
+    margin-left: 6cm;
+    margin-right: 3cm;
+    margin-top: 1cm;
+}
+#texrareaFormControl ::placeholder {
+    color: white;
+}
+/*.message {
+    text-align: center;
+    margin-top: 1cm;
+}*/
+#yourMessage {
+    width: 70%;
+}
+::placeholder {
+    color: white;
+}
+.submit {
+    text-align: center;
+}
+#submit {
+    background-color: unset;
+}
+/* Footer */
+footer {
+    text-align: center;
+    margin-left: 7cm;
+    margin-right: 7cm;
+    height: 4cm;
+}
+.containerIcons {
+    margin-top: 1.5cm;
+}
+.studio {
+    margin-top: 0.7cm;
+}
+.studio p {
+    margin-bottom: -0.1cm;
+    font-size: 13px;
+}
