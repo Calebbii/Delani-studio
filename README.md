@@ -17,7 +17,7 @@ https://calebbii.github.io/Delani-studio/
 * JAVASCRIPT
 
 ## Setup and Installation Requirements
-* clone the repo
+* Clone the repo
 * Opening the project on a text editor
 * Open the project on a live server
 
