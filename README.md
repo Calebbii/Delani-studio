@@ -3,7 +3,7 @@
 ## Description
 A website that displays what we do and our capabilities
 ## Live Link
-https://calebbii.github.io/Akan-names-website/
+https://calebbii.github.io/Delani-studio/
 
 ## Features
 * Built with HTML, CSS, Bootstrap and JavaScript
