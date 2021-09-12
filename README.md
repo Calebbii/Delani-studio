@@ -1,7 +1,7 @@
 # Delani-studio
 
 ## Description
-A website that displays what we do and our capabilities
+A website that displays what we do and our capabilities.
 ## Live Link
 https://calebbii.github.io/Delani-studio/
 
