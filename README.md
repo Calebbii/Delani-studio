@@ -24,7 +24,7 @@ https://calebbii.github.io/Delani-studio/
 ## Author
 Caleb Bii
 
-## Support and contact detail
+## Support and Contact detail
 Email : biicaleb316@gmail.com
 
 ## License and Copyright
