@@ -133,3 +133,32 @@ footer {
     margin-bottom: -0.1cm;
     font-size: 13px;
 }
+@media all and (max-width: 900px) {
+    .descriptionDes, .descriptionDev, .descriptionPro {
+        font-size: 5px;
+        width: 3cm;
+        display: none;
+        margin-left: 1cm;
+    }
+    .imageDes > img, .imageDev > img, .imagePro > img {
+        width: 40px;
+        height: 40px;
+    }
+    .imageDes p, .imageDev p, .imagePro p {
+        font-size: smaller;
+    }
+    #delani, #aboutUs, #services, #whatWeDo {
+        height: auto;
+    }
+    footer .col img {
+        width: 20px;
+        height: 20px;
+    }
+        
+}
+@media all and (max-width: 1100px) {
+    #imgOne, #imgTwo, #imgThree, #imgFour, #imgFive, #imgSix, #imgSeven, #imgEight {
+        height: 75px;
+        width: 100px;
+    }
+}
