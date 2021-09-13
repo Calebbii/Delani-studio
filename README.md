@@ -16,7 +16,7 @@ https://calebbii.github.io/Delani-studio/
 * BOOTSTRAP
 * JAVASCRIPT
 
-## Setup and Installation Requirements
+## Setup and Installation Requirements 
 * Clone the repo
 * Opening the project on a text editor
 * Open the project on a live server
