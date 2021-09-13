@@ -27,6 +27,6 @@ Caleb Bii
 ## Support and Contact detail
 Email : biicaleb316@gmail.com
 
-## License and Copyright
+## License and Copyright 
 [MIT Lisence](https://github.com/Calebbii/Delani-studio/blob/master/LICENSE) Copyright (c) 2021 Calebbii
 
