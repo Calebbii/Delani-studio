@@ -51,9 +51,6 @@
     display: none;
     margin-left: 2cm;
 }
-/*.imageDes, .imageDev, .imagePro {
-    margin-right: 2cm;
-}*/
 #whatWeDo h3 {
     margin-top: 1.7cm;
     margin-bottom: 0.5cm;
@@ -67,12 +64,7 @@
     margin-left: 5cm;
     margin-right: 5cm;
 }
-/*.portfolioUp img:hover {
-    opacity: 0.3;
-}
-.portfolioDown img:hover {
-    opacity: 0.3;
-}*/
+
 /* contact us*/
 #contactUs {
     height: 550px;
@@ -111,10 +103,7 @@ input {
 #texrareaFormControl ::placeholder {
     color: white;
 }
-/*.message {
-    text-align: center;
-    margin-top: 1cm;
-}*/
+
 #yourMessage {
     width: 70%;
 }
